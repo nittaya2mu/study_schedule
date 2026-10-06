@@ -896,3 +896,15 @@ Current development stages:
 > **Let the student define the constraints. Let Genetic Algorithm find the schedule.**
 
 **Smart Study Scheduler** aims to turn a time-consuming manual planning process into an automated optimization problem.
+
+---
+
+## 🚀 Getting Started
+
+The application source is in this repository (PHP + MySQL + HTML/CSS/JavaScript, runs on XAMPP).
+
+1. Copy the repository into `htdocs/` (e.g. `C:\xampp\htdocs\study_schedule`)
+2. Import `database/schema.sql` via phpMyAdmin
+3. Open `http://localhost/study_schedule/` — demo login: `demo@example.com` / `demo1234`
+
+See **[SETUP.md](SETUP.md)** for installation details, architecture, database design, GA design, experiment results and team responsibilities.
